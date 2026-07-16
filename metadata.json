@@ -1,0 +1,6 @@
+{
+  "name": "YouTube 播放清單播放器",
+  "description": "貼上 YouTube 播放清單網址即可順暢播放的簡約精緻網頁播放器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
